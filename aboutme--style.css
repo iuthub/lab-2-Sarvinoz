@@ -1,6 +1,8 @@
 h1{
 	color: red;
 	font-family: Arial;
+	text-align: center;
+	text-decoration: underline
 
 }
 h2 {
@@ -8,9 +10,20 @@ h2 {
 	font-family: Arial;
 }
 html{
-	background-color: yellow;
+	background-color: aqua;
 }
+
 ul{
 	color: green;
-	background-color: red;
+	background-color: greenish;
+	list-style-type: lower-roman;
 }
+dl{
+	background-color: white;
+}
+pre{
+	font-size: 20pt;
+	font-weight: bold;
+	;
+}
+
