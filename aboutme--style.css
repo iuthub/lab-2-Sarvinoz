@@ -2,7 +2,9 @@ h1{
 	color: red;
 	font-family: Arial;
 	text-align: center;
-	text-decoration: underline
+	text-decoration: underline;
+	font-size: larger;
+
 
 }
 h2 {
@@ -10,20 +12,24 @@ h2 {
 	font-family: Arial;
 }
 html{
-	background-color: aqua;
+	background-color: silver;
 }
 
 ul{
 	color: green;
 	background-color: greenish;
 	list-style-type: lower-roman;
+	
+
 }
 dl{
 	background-color: white;
 }
 pre{
 	font-size: 20pt;
-	font-weight: bold;
+	font-weight: bold; 
 	;
+}	color: navy;
+
 }
 
